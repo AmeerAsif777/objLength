@@ -1,0 +1,16 @@
+{
+  "name": "objlength",
+  "version": "2.1.4",
+  "description": "Returning length of object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmeerAsif777/objLength.git"
+  },
+  "author": "Ameer Ashif",
+  "license": "ISC",
+  "keywords":["object", "length", "object length", "array", "array length", "length of array", "length of object"]
+}
